@@ -1,0 +1,25 @@
+[22.01.18 - 12:50 Mon]  LINE:-2  CLASSNAME:sun.reflect.NativeConstructorAccessorImpl  MESSAGE:Unknown database 'oteldenemeler'
+[22.01.18 - 14:02 Mon]  LINE:-2  CLASSNAME:sun.reflect.NativeConstructorAccessorImpl  MESSAGE:Data source rejected establishment of connection,  message from server: "Too many connections"
+[22.01.18 - 14:02 Mon]  LINE:-2  CLASSNAME:sun.reflect.NativeConstructorAccessorImpl  MESSAGE:Data source rejected establishment of connection,  message from server: "Too many connections"
+[22.01.18 - 14:05 Mon]  LINE:-2  CLASSNAME:sun.reflect.NativeConstructorAccessorImpl  MESSAGE:Data source rejected establishment of connection,  message from server: "Too many connections"
+[22.01.18 - 14:05 Mon]  LINE:-2  CLASSNAME:sun.reflect.NativeConstructorAccessorImpl  MESSAGE:Data source rejected establishment of connection,  message from server: "Too many connections"
+[22.01.18 - 14:05 Mon]  LINE:-2  CLASSNAME:sun.reflect.NativeConstructorAccessorImpl  MESSAGE:Data source rejected establishment of connection,  message from server: "Too many connections"
+[22.01.18 - 14:09 Mon]  LINE:-2  CLASSNAME:sun.reflect.NativeConstructorAccessorImpl  MESSAGE:Data source rejected establishment of connection,  message from server: "Too many connections"
+[22.01.18 - 14:09 Mon]  LINE:-2  CLASSNAME:sun.reflect.NativeConstructorAccessorImpl  MESSAGE:Data source rejected establishment of connection,  message from server: "Too many connections"
+[22.01.18 - 14:10 Mon]  LINE:-2  CLASSNAME:sun.reflect.NativeConstructorAccessorImpl  MESSAGE:Data source rejected establishment of connection,  message from server: "Too many connections"
+[22.01.18 - 14:10 Mon]  LINE:-2  CLASSNAME:sun.reflect.NativeConstructorAccessorImpl  MESSAGE:Data source rejected establishment of connection,  message from server: "Too many connections"
+[22.01.18 - 14:11 Mon]  LINE:-2  CLASSNAME:sun.reflect.NativeConstructorAccessorImpl  MESSAGE:Data source rejected establishment of connection,  message from server: "Too many connections"
+[22.01.18 - 14:12 Mon]  LINE:-2  CLASSNAME:sun.reflect.NativeConstructorAccessorImpl  MESSAGE:Data source rejected establishment of connection,  message from server: "Too many connections"
+[22.01.18 - 14:14 Mon]  LINE:-2  CLASSNAME:sun.reflect.NativeConstructorAccessorImpl  MESSAGE:Data source rejected establishment of connection,  message from server: "Too many connections"
+[22.01.18 - 14:17 Mon]  LINE:-2  CLASSNAME:sun.reflect.NativeConstructorAccessorImpl  MESSAGE:Data source rejected establishment of connection,  message from server: "Too many connections"
+[22.01.18 - 14:18 Mon]  LINE:-2  CLASSNAME:sun.reflect.NativeConstructorAccessorImpl  MESSAGE:Data source rejected establishment of connection,  message from server: "Too many connections"
+[22.01.18 - 14:18 Mon]  LINE:-2  CLASSNAME:sun.reflect.NativeConstructorAccessorImpl  MESSAGE:Data source rejected establishment of connection,  message from server: "Too many connections"
+[22.01.18 - 14:19 Mon]  LINE:-2  CLASSNAME:sun.reflect.NativeConstructorAccessorImpl  MESSAGE:Data source rejected establishment of connection,  message from server: "Too many connections"
+[22.01.18 - 14:19 Mon]  LINE:-2  CLASSNAME:sun.reflect.NativeConstructorAccessorImpl  MESSAGE:Data source rejected establishment of connection,  message from server: "Too many connections"
+[22.01.18 - 14:20 Mon]  LINE:-2  CLASSNAME:sun.reflect.NativeConstructorAccessorImpl  MESSAGE:Data source rejected establishment of connection,  message from server: "Too many connections"
+[22.01.18 - 14:20 Mon]  LINE:-2  CLASSNAME:sun.reflect.NativeConstructorAccessorImpl  MESSAGE:Data source rejected establishment of connection,  message from server: "Too many connections"
+[22.01.18 - 14:20 Mon]  LINE:-2  CLASSNAME:sun.reflect.NativeConstructorAccessorImpl  MESSAGE:Data source rejected establishment of connection,  message from server: "Too many connections"
+[22.01.18 - 14:20 Mon]  LINE:-2  CLASSNAME:sun.reflect.NativeConstructorAccessorImpl  MESSAGE:Data source rejected establishment of connection,  message from server: "Too many connections"
+[29.01.18 - 10:37 Mon]  LINE:-2  CLASSNAME:sun.reflect.NativeConstructorAccessorImpl  MESSAGE:Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
